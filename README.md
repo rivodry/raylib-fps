@@ -1,2 +1,3 @@
 # raylib-fps
-a somewhas fucntioning fps controller i wrote
+a somewhat functional fp controller
+
